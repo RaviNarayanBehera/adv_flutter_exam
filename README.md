@@ -1,4 +1,10 @@
-# sky_scrapper
+# Quotes App
+
+- This App is For Educational Purposes.
+- You can see various types of quotes in it.
+- You can also see all The Authors' names.
+- You Can Also Delete Or Add The Quotes As You Wish.
+
 
 <h1 align = "center">
 QuoteApp
